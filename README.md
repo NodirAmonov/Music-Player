@@ -4,4 +4,4 @@ There are a few features I can think to add to this project, like adding shuffle
 Its interesting how easy this project actually was.
 You woul think that making a music player like this would be complicated, but it really wasn't.
 
-You can this project  [ViewLive](music-players-page.netlify.app)
+You can this project  [ViewLive](https://music-players-page.netlify.app)
